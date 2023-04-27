@@ -1,2 +1,3 @@
 yeni
 remote kodlar ekledim bu kodlai
+cakisma kodlari var
